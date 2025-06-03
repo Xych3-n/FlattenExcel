@@ -1,7 +1,7 @@
 
 # 📊 FlattenExcel
 
-`FlattenExcel` 是一个用于批量处理结构化 Excel 报表的工具，能够自动清洗、标准化表格内容，并将其转换为类似 [RAGFlow](https://github.com/danielgross/RAGFlow) 的 `index-content` 结构文本，方便用于如 [FastGPT](https://github.com/labring/FastGPT) 的知识库构建任务。
+`FlattenExcel` 是一个用于批量处理结构化 Excel 报表的工具，能够自动清洗、标准化表格内容，并将其转换为类似 [RAGFlow](https://github.com/infiniflow/ragflow) 的 `index-content` 结构文本，方便用于如 [FastGPT](https://github.com/labring/FastGPT) 的知识库构建任务。
 
 ---
 
